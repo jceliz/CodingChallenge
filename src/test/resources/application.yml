@@ -1,0 +1,11 @@
+webdriver:
+  chrome: WondersCorporation/drivers/chromedriver.exe
+
+browser: "chrome"
+
+url:
+  artOfTesting: "https://artoftesting.com/samplesiteforselenium"
+  giordano: "https://www.giordano.com/GB/en-US/"
+
+creds:
+  username: "test"
